@@ -1,16 +1,87 @@
 
 # Dictionary of Artificial Intelligence
-# by Juliano Costa
+## by Juliano Costa - Data Scientist student
 
-Here is my dictionary about all stuffs related of Artificial Intelligence, Machine Learning, Deep Learning, etc.
+Linkedin: https://www.linkedin.com/in/julianocosta/
 
-A | B | <a href='#Letter_C'>C</a> | D | E | F
 
-#Tecnologias, Conceitos e Termos
 
-##Tecnologia
 
-Hadoop: é uma plataforma de software em Java de computação distribuída voltada para clusters e processamento de grandes volumes de dados, com atenção a tolerância de falhas. Trata-se de um projeto da Apache de alto nível, construído por uma comunidade de contribuidores e utilizando a linguagem Java. Além de gratuito, foi criado para ser usado em hardware de baixo custo.
+#Here is my dictionary about all stuffs related of Artificial Intelligence, Machine Learning, Deep Learning, etc.
+
+Any think to complete, please email me! :)  I will do my best!!
+
+
+
+<a href='#Letter_A'>A</a> | <a href='#Letter_B'>B</a> | <a href='#Letter_C'>C</a> | <a href='#Letter_D'>D</a> | <a href='#Letter_E'>E</a> | <a href='#Letter_F'>F</a> | <a href='#Letter_G'>G</a>
+<a href='#Letter_H'>H</a> | <a href='#Letter_I'>I</a> | <a href='#Letter_J'>J</a> | <a href='#Letter_K'>K</a> | <a href='#Letter_L'>L</a> | <a href='#Letter_M'>M</a> | <a href='#Letter_N'>N</a>
+<a href='#Letter_O'>O</a> | <a href='#Letter_P'>P</a> | <a href='#Letter_Q'>Q</a> | <a href='#Letter_R'>R</a> | <a href='#Letter_S'>S</a> | <a href='#Letter_T'>T</a> | <a href='#Letter_U'>U</a>
+<a href='#Letter_V'>V</a> | <a href='#Letter_X'>X</a> | <a href='#Letter_W'>W</a> | <a href='#Letter_Y'>Y</a> | <a href='#Letter_Z'>Z</a> | <a href='#Number1'>1</a> | <a href='#Number2'>2</a>
+
+# <a id='Letter_A'>A</a>
+
+# <a id='Letter_B'>B</a>
+
+# <a id='Letter_C'>C</a>
+
+##Cassandra
+É um banco de dados distribuído altamente escalável, que reúne a arquitetura do DynamoDB e modelo de dados baseado no BigTale. É mantido pela fundação Apache.
+
+##Clickstream 
+dados de cliques
+
+# <a id='Letter_D'>D</a>
+
+# <a id='Letter_E'>E</a>
+
+# <a id='Letter_F'>F</a>
+
+# <a id='Letter_G'>G</a>
+
+# <a id='Letter_H'>H</a>
+
+# <a id='Letter_I'>I</a>
+
+# <a id='Letter_J'>J</a>
+
+# <a id='Letter_K'>K</a>
+
+# <a id='Letter_L'>L</a>
+
+# <a id='Letter_M'>M</a>
+
+# <a id='Letter_N'>N</a>
+
+# <a id='Letter_O'>O</a>
+
+# <a id='Letter_P'>P</a>
+
+# <a id='Letter_Q'>Q</a>
+
+# <a id='Letter_R'>R</a>
+
+# <a id='Letter_S'>S</a>
+
+# <a id='Letter_T'>T</a>
+
+# <a id='Letter_U'>U</a>
+
+# <a id='Letter_V'>V</a>
+
+# <a id='Letter_X'>X</a>
+
+# <a id='Letter_W'>W</a>
+
+# <a id='Letter_Y'>Y</a>
+
+# <a id='Letter_Z'>Z</a>
+
+# <a id='Number1'>1</a>
+
+# <a id='Number2'>2</a>
+
+##Hadoop
+É uma plataforma de software em Java de computação distribuída voltada para clusters e processamento de grandes volumes de dados, com atenção a tolerância de falhas. Trata-se de um projeto da Apache de alto nível, construído por uma comunidade de contribuidores e utilizando a linguagem Java. Além de gratuito, foi criado para ser usado em hardware de baixo custo.
 Hadoop Commom: Contém as bibliotecas e arquivos comuns e necessários para todos os módulos do Hadoop
 Hadoop Distributed File System (HDFS): Sistema de arquivos distribuído que armazena dados em máquinas dentro do cluster, sob demanda, permitindo uma largura de banda muito grande em todo o cluster.
 Hadoop Yarn: é uma plataforma de gerenciamento de recursos responsáveis pelo gerenciamento dos recursos computacionais em cluster, assim como pelo agendamento dos recursos
@@ -19,12 +90,8 @@ Spark: projeto open source que foi concebido com o principal objetivo de ser vel
 
 # <a id='Letter_C'>C</a>
 
-##Cassandra
-É um banco de dados distribuído altamente escalável, que reúne a arquitetura do DynamoDB e modelo de dados baseado no BigTale. É mantido pela fundação Apache.
 
-Termos
 
-Clickstream: dados de cliques
 
 K-média ou K-means: Algoritmo de agrupamento é fornecer uma classificação de informações de acordo com os próprios dados, em um determinado número predefinido K de grupos (cluster). Tem como função de classificação a distância do objeto ao centro do grupo (Centroide).
 O algoritmo automaticamente vai fornecer uma classificação automática sem a necessidade de nenhuma supervisão humana, ou seja, sem nenhuma pre-classificação existente. Por causa desta característica, o k-means é considerado como um algoritmo de mineração de dados não supervisionados.
