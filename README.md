@@ -4,7 +4,7 @@
 
 Here is my dictionary about all stuffs related of Artificial Intelligence, Machine Learning, Deep Learning, etc.
 
-A | B | <a href='Letter_C'>C</a> | D | E | F
+A | B | <a href='#Letter_C'>C</a> | D | E | F
 
 #Tecnologias, Conceitos e Termos
 
